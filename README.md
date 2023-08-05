@@ -31,8 +31,6 @@ Notes and resources related to the Code 401 course - Advanced Software Developme
 - Databases
 - Software Testing
 - DevOps and Deployment
-- And more...
-
 
 ### Resource 
 1- [SQLASS](./SQL.md)
